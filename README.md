@@ -1,4 +1,4 @@
-# breast-cancer-detection-using-cnn-DL-
+# breast cancer detection using cnn
 breast cancer detection using cnn (DL) &amp; apply model at web app
 
 Applying deep learning properties to 277,000 images taken from breast cancer patients and 
